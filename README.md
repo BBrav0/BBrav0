@@ -3,7 +3,7 @@
 
 👨‍🎓 I'm currently pursuing a BS (Expected 2026) in CS
 
-⚡️ I am OBSESSED with Java ☕️
+⚡️ My all-time favorite language will always be Java ☕️
 
 <!--
 **BBrav0/BBrav0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
