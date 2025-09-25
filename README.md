@@ -16,8 +16,6 @@
 - 🎓 **Education:** Pursuing BS in Computer Science at University of Pittsburgh (Expected 2026)
 - 👨‍🏫 **Role:** Computer Science Tutor at University of Pittsburgh
 - ☕ **Favorite Language:** Java Java Java Java Java Java Java Java Java Java Java Java (on occasion)
-- 🌱 **Currently Learning:** Advanced algorithms and data structures
-- 💬 **Ask me about:** Java, tutoring CS concepts, or Pittsburgh life!
 
 ---
 
