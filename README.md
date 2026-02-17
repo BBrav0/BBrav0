@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Student;Java+Enthusiast;CS+Tutor+at+Pitt" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;CS+Tutor+at+Pitt" alt="Typing SVG" />
 </div>
 
 ---
