@@ -1,7 +1,7 @@
-# Hi there! 👋
+# Hi there, I'm Ben 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;CS+Tutor+at+Pitt" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Computer+Science+Graduate;Software+Developer;Incoming+Deloitte+Consultant" alt="Typing SVG" />
 </div>
 
 ---
@@ -12,10 +12,17 @@
   <img src="https://github.com/BBrav0/BBrav0/blob/main/wave.gif" width="30px">
 </div>
 
-- 🏠 **Location:** Originally from Washington, DC, now in Pittsburgh, PA
-- 🎓 **Education:** Pursuing BS in Computer Science at University of Pittsburgh (Expected 2026)
-- 👨‍🏫 **Role:** Computer Science Tutor at University of Pittsburgh
-- ☕ **Favorite Language:** Java Java Java Java Java Java Java Java Java Java Java Java (on occasion)
+I'm Ben Bravo, a recent Computer Science graduate from the University of Pittsburgh. I earned my BS in Computer Science in May 2026, and I enjoy building practical software that turns ideas into useful products.
+
+My work has included full-stack applications, user account systems, databases, AI-powered features, and web experiences built with tools like Java, Python, JavaScript, TypeScript, React, Next.js, and Supabase. I like projects where I can connect strong technical fundamentals with real user workflows.
+
+Outside of software development, I have experience tutoring and coaching, which has shaped how I communicate, teach, and solve problems with other people. I care about clear explanations, steady execution, and building things that are actually helpful.
+
+- 🏠 Location: Moving to Harrisburg, PA in July 2026
+- 🎓 Education: BS in Computer Science, University of Pittsburgh, May 2026
+- 💼 Next step: Starting as a Deloitte consultant in August 2026
+- 👨‍🏫 Experience: Computer science tutoring, coaching, and hands-on software development
+- ☕ Favorite language: Java Java Java Java Java Java Java Java Java Java Java Java, on occasion
 
 ---
 
